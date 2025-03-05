@@ -1,0 +1,111 @@
+/* Your styles here */
+
+body {
+    text-align: center;
+    color: #393d41;
+    line-height: 1,65;
+    font-size: 1.2 rem;
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+
+    
+}
+
+header {
+    background-color: black;  
+    padding-top: 25px;
+    padding-bottom: 35px; 
+}
+
+nav {
+    background-image: url(../images/banner.jpg);
+
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+.button {
+    background-color: #f04c2f;
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+
+    color: white;
+    font-size: xxx-large;
+
+    margin-top: 10%;
+
+}
+
+.redbox {
+    color: white;
+    height: 240px;
+    font-size: xx-large;
+    background-color: #e22d0e;
+    padding-top: 15%;
+}
+
+.img img {
+    width: 100%;
+}
+
+.redbox p {
+    font-size: 70%;
+}
+
+h1 h2 h3 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    font-size: xxx-large;
+    text-align: center;
+    padding: 10%;
+}
+
+h1, h3 {
+    color: #25a2c3;
+}
+
+h2 {
+    color: white;
+}
+
+nav p {
+    font-size: xx-large;
+}
+
+.radius img{
+    border-radius: 50%;
+}
+
+footer {
+    background-color: #25a2c3;
+    height: 400px;
+    line-height: 1.65;
+    color: white;
+}
+
+footer h2 {
+    line-height: 1.65;
+    padding-top: 10%;
+    font-size: xx-large;
+}
+
+footer a {
+    color: #c8e7f0;
+}
